@@ -1,2 +1,2 @@
-# 01respository
- promeiro repositorio do curso de git
+# 01repository
+ primeiro repositorio do curso de git
